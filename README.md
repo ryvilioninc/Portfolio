@@ -1,14 +1,11 @@
-TITLE:
-Oussama horrigue - Portfolio
+## Title:
+<p>Oussama Horrigue - Portfolio</p>
 
-AUTHOR:
-Oussama horrigue
+## Author:
+<p>Oussama Horrigue</p>
 
-
-Facebook: https://www.facebook.com/oussama.horrigue
-Linkedin :https://www.linkedin.com/in/oussama-horrigue-69624b1b7/
-
-Link: https://oussamahorrigue.github.io/Portfolio/
+## Link:
+<p>https://oussamahorrigue.github.io/Portfolio/</p>
 
 
 ## Connect with me:
