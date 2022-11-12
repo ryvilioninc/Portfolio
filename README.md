@@ -1,11 +1,11 @@
 ## Title:
-<h5>Oussama Horrigue - Portfolio</h5>
+<h3>Oussama Horrigue - Portfolio</h3>
 
 ## Author:
-<h5>Oussama Horrigue</h5>
+<h3>Oussama Horrigue</h3>
 
 ## Link:
-<a href="https://oussamahorrigue.github.io/Portfolio/" target="_blank"><h5>https://oussamahorrigue.github.io/Portfolio/</h5></a>
+<a href="https://oussamahorrigue.github.io/Portfolio/" target="_blank"><h3>https://oussamahorrigue.github.io/Portfolio/</h3></a>
 
 
 ## Connect with me:
