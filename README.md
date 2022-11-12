@@ -1,8 +1,8 @@
 ## Title:
-<h3>Oussama Horrigue - Portfolio</h3>
+<h4>Oussama Horrigue - Portfolio</h4>
 
 ## Author:
-<h3>Oussama Horrigue</h3>
+<h4>Oussama Horrigue</h4>
 
 ## Link:
 <a href="https://oussamahorrigue.github.io/Portfolio/" target="_blank"><h3>https://oussamahorrigue.github.io/Portfolio/</h3></a>
