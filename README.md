@@ -1,11 +1,11 @@
 ## Title:
-<p>Oussama Horrigue - Portfolio</p>
+<h5>Oussama Horrigue - Portfolio</h5>
 
 ## Author:
-<p>Oussama Horrigue</p>
+<h5>Oussama Horrigue</h5>
 
 ## Link:
-<p>https://oussamahorrigue.github.io/Portfolio/</p>
+<a href="https://oussamahorrigue.github.io/Portfolio/" target="_blank"><h5>https://oussamahorrigue.github.io/Portfolio/</h5></a>
 
 
 ## Connect with me:
@@ -22,4 +22,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://githsub.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
